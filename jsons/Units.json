@@ -1,0 +1,15 @@
+[
+{
+		"name": "Longbowman",
+		"unitType": "Archery",
+		"uniqueTo": "Byzantium",
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 20,
+		"replaces": "Crossbowman",
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Longbow ability",],
+		"attackSound": "crossbow"
