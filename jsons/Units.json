@@ -11,7 +11,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"promotions": ["Longbowman ability","Baggage Train","Woodsman"],
+		"promotions": ["[Longbowman] ability","Baggage Train","Woodsman"],
 		"attackSound": "crossbow"
 },
 		{
