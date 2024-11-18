@@ -21,7 +21,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sun Never Sets",
-		"uniques": ["[+2] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>"],
+		"uniques": ["[+5] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>", "[+15 Gold][in all coastal cities]","[+5 Production][in all coastal cities]","[+50]% Production when constructing [Water] units [in all coastal cities]"]
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
