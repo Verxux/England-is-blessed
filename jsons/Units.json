@@ -30,3 +30,19 @@
 		"promotions": ["Baggage Train","Great Generals I","Quick Study","Drill I","Drill II"],
 		"attackSound": "horse"
 		},
+	{
+		
+		"name": "Marshall",
+		"unitType": "Civilian",
+		"uniqueTo": "England",
+		"replaces": "Great General",
+		"uniques": [
+                "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+                "[+15]% Strength bonus for [Military] units within [2] tiles",
+			"[+100]% Strength bonus for [Longbowman] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 4
+	},
+]
