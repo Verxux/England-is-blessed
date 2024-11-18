@@ -21,7 +21,7 @@
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [20] per owned city","New [Military] units start with [70] Experience [in this city]", "[+5 Production] [in all cities]", "[-50]% construction time for [All] improvements"],
 		"requiredTech": "Iron Working",
-
+  },
 	       ]
 
 
