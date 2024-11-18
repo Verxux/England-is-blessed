@@ -2,7 +2,7 @@
 {
 		"name": "Longbowman",
 		"unitType": "Archery",
-		"uniqueTo": "England,
+		"uniqueTo": "England",
 		"movement": 3,
 		"strength": 15,
 		"rangedStrength": 21,
@@ -15,7 +15,7 @@
 		"attackSound": "crossbow"
 }
 		{
-		"name": "Knights of the Garter,
+		"name": "Knights of the Garter",
 		"unitType": "Mounted",
 		"replaces": "Knight",
 		"uniqueTo": "England",
