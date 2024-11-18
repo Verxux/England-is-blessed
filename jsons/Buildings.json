@@ -1,1 +1,27 @@
+[
+  {
+		"name": "Bank service of the Imperial Crown",
+                "replaces": "Bank",
+		"uniqueTo": "England",
+		"gold": 5,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 50},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking",
+	        },
+  {
+		"name": "Conquest of the World",
+		"uniqueTo": "England",
+		"cost": 50,
+		"gold":75,
+    "production":25,
+    "culture":25,
+  "isNationalWonder": true,
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			"Cost increases by [20] per owned city","New [Military] units start with [70] Experience [in this city]", "[+5 Production] [in all cities]", "[-50]% construction time for [All] improvements"]],
+		"requiredTech": "Iron Working",
+
+	       ]
+
 
