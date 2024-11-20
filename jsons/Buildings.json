@@ -13,13 +13,13 @@
   {
 		"name": "Conquest of the World",
 		"uniqueTo": "England",
-		"cost": 50,
+		"cost": 5,
 		"gold":75,
                 "production":25,
                 "culture":25,
                 "isNationalWonder": true,
-		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
-			   "Cost increases by [20] per owned city","New [Military] units start with [70] Experience [in this city]", "[+5 Production] [in all cities]", "[-50]% construction time for [All] improvements"],
+		"uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			   "Cost increases by [20] per owned city","New [Military] units start with [70] Experience [in this city]", "[+10 Production] [in all cities]","[+10 Science] [in all cities]","[-50]% construction time for [All] improvements"],
 		"requiredTech": "Iron Working",
   },
 	       ]
