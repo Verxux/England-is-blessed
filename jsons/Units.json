@@ -11,7 +11,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"promotions": ["[Longbowman] ability","Baggage Train","Woodsman","Extended Range"],
+		"promotions": ["[Longbowman] ability","Baggage Train","Extended Range"],
 		"attackSound": "crossbow"
 },
 		{
@@ -38,11 +38,13 @@
 		"replaces": "Great General",
 		"uniques": [
                 "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-                "[+15]% Strength bonus for [Military] units within [2] tiles",
-			"[+100]% Strength bonus for [Longbowman] units within [2] tiles",
+                "[+50]% Strength bonus for [Military] units within [3] tiles",
+			"[+100]% Strength bonus for [Longbowman] units within [3] tiles",
+			"[1] additional attacks per turn for [Military Units] within [3] tiles",
+			"[+1] Movement for [Military Units] within  [3] tiles","[+1] Range for [Longbowman] units within [3] tiles",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 4
+		"movement": 5
 	},
 ]
